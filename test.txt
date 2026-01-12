@@ -2,3 +2,4 @@ premier test git
 j ajoute une deuxieme ligne
 ligne valide
 j ajoute une ligne simple
+je modifie le texte
